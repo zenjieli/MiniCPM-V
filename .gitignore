@@ -1,3 +1,6 @@
 *.bk
 __pycache__
 .DS_Store
+data
+weights
+finetune/output/

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "VIRAT_S_000002_027_028_029_030_031",
+    "image": {
+      "<image_00>": "../data/VIRAT/VIRAT_S_000002/VIRAT_S_000002_027.jpg",
+      "<image_01>": "../data/VIRAT/VIRAT_S_000002/VIRAT_S_000002_028.jpg",
+      "<image_02>": "../data/VIRAT/VIRAT_S_000002/VIRAT_S_000002_029.jpg",
+      "<image_03>": "../data/VIRAT/VIRAT_S_000002/VIRAT_S_000002_030.jpg",
+      "<image_04>": "../data/VIRAT/VIRAT_S_000002/VIRAT_S_000002_031.jpg"
+    },
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Has someone opened the car trunk? Answer with yes or no.\n<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes."
+      }
+    ]
+  },
+  {
+    "id": "VIRAT_S_000002_002",
+    "image": "../data/VIRAT/VIRAT_S_000002/VIRAT_S_000002_002.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "<image>\nHow many people are there? Answer with a single number."
+      },
+      {
+        "role": "assistant",
+        "content": "3."
+      }
+    ]
+  },
+  {
+    "id": "VIRAT_S_000002_006",
+    "image": "../data/VIRAT/VIRAT_S_000002/VIRAT_S_000002_006.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "<image>\nHow many people are there? Answer with a single number."
+      },
+      {
+        "role": "assistant",
+        "content": "3."
+      }
+    ]
+  },
+  {
+    "id": "VIRAT_S_000002_014",
+    "image": "../data/VIRAT/VIRAT_S_000002/VIRAT_S_000002_014.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "<image>\nHow many people are there? Answer with a single number."
+      },
+      {
+        "role": "assistant",
+        "content": "3."
+      }
+    ]
+  },
+  {
+    "id": "VIRAT_S_000002_019",
+    "image": "../data/VIRAT/VIRAT_S_000002/VIRAT_S_000002_019.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "<image>\nHow many people are there? Answer with a single number."
+      },
+      {
+        "role": "assistant",
+        "content": "6."
+      }
+    ]
+  },
+  {
+    "id": "VIRAT_S_000002_024",
+    "image": "../data/VIRAT/VIRAT_S_000002/VIRAT_S_000002_024.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "<image>\nHow many people are there? Answer with a single number."
+      },
+      {
+        "role": "assistant",
+        "content": "6."
+      }
+    ]
+  },
+  {
+    "id": "VIRAT_S_000002_025",
+    "image": "../data/VIRAT/VIRAT_S_000002/VIRAT_S_000002_025.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "<image>\nHow many people are there? Answer with a single number."
+      },
+      {
+        "role": "assistant",
+        "content": "7."
+      }
+    ]
+  },
+  {
+    "id": "VIRAT_S_000002_028",
+    "image": "../data/VIRAT/VIRAT_S_000002/VIRAT_S_000002_028.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "<image>\nHow many people are there? Answer with a single number."
+      },
+      {
+        "role": "assistant",
+        "content": "7."
+      }
+    ]
+  },
+  {
+    "id": "VIRAT_S_000002_032",
+    "image": "../data/VIRAT/VIRAT_S_000002/VIRAT_S_000002_032.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "<image>\nHow many people are there? Answer with a single number."
+      },
+      {
+        "role": "assistant",
+        "content": "6."
+      }
+    ]
+  },
+  {
+    "id": "VIRAT_S_000002_039",
+    "image": "../data/VIRAT/VIRAT_S_000002/VIRAT_S_000002_039.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "<image>\nHow many people are there? Answer with a single number."
+      },
+      {
+        "role": "assistant",
+        "content": "5."
+      }
+    ]
+  },
+  {
+    "id": "VIRAT_S_000002_045",
+    "image": "../data/VIRAT/VIRAT_S_000002/VIRAT_S_000002_045.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "<image>\nHow many people are there? Answer with a single number."
+      },
+      {
+        "role": "assistant",
+        "content": "5."
+      }
+    ]
+  }
+]
